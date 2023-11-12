@@ -1,0 +1,6 @@
+Collecting portalocker
+  Using cached portalocker-2.8.2-py3-none-any.whl (17 kB)
+Collecting pywin32>=226
+  Using cached pywin32-306-cp310-cp310-win_amd64.whl (9.2 MB)
+Installing collected packages: pywin32, portalocker
+Successfully installed portalocker-2.8.2 pywin32-306
